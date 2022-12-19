@@ -11,4 +11,5 @@ We are passionate about helping our community find meaningful work in the gaming
 ## Socials
 
 **Discord:** https://discord.gg/5cCESCHJbk
+
 **Twitter:** https://twitter.com/workin_games
